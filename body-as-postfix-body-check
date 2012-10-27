@@ -1,0 +1,1 @@
+cat body.txt | sed 's#\(.*\)#/\1/ REJECT Spam Body: \1#'

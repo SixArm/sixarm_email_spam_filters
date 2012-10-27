@@ -1,0 +1,2 @@
+cat host.txt | sed 's#\.#\\.#g; s#\(.*\)#/\\b\1\\b/ REJECT Spam Host: \1#'
+
