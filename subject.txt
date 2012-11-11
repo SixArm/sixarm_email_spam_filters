@@ -27,6 +27,7 @@ DISH Network only
 Do you suffer from Heartburn?
 Drivers Fail To Take Advantage of New Auto Insurance Discounts
 Earn a nursing degree today
+Financial assistance for you today
 Free Professionals Online Registry
 Get $1000 in as little as 1 hour
 Get DirectTV at a 
@@ -42,6 +43,7 @@ Halloween costumes for the entire family
 Hidden pictures anzd movies of attractive babies
 Holiday ink and toner sale
 Instant Cash Advance with Online Payday Loans
+It's pretty simple.  You wear the patch and you lose the weight.
 Kill fat with these delicious foods
 Letter From Santa For Your Child
 Local Restaurant Coupons now available for download
@@ -77,6 +79,7 @@ This weird food' burns [0-9]+% more fat
 Thousands of Hip Implants Recalled Due to Failure
 Triple Bureau Credit Scores
 View Arrest Records Online
+View Foreclosure Listings in Your Area
 View Your Credit Score Now
 View oil change coupons
 Vinyl Siding Discounts
@@ -95,6 +98,7 @@ Your City Has Qualified For Auto-Rates
 Your Credit-Score Updated: View ASAP
 Your Extra Holiday Cash is Available
 Your Loan is Approved, regardless of Poor Credit History.
+Your TransUnion, Equifax, and Experian Scores May have changed
 Your TransUnion, Equifax, and Experian credit scores may have changed
 Your discount airline tickets are available for booking.
 Your free glucose meter from Liberty Medical 
@@ -103,7 +107,7 @@ Your local grocery coupons are available for download.
 Your restaurant coupon is enclosed.
 Your unclaimed Olive Garden
 Your zip-code qualifies for
-\[fname\] your new \[0-9\]+ Credit Report
 \[fname\] ,
+\[fname\] your new \[0-9\]+ Credit Report
 _Will_Do_Your_Taxes_FREE
 get 1000 TV channels on your computer

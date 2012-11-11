@@ -3,6 +3,7 @@
 (CRITICAL|URGENT|ALERT|WARNING): There has been a change to your (EXPERIAN|TRANSUNION|) *(credit)? score
 (If|Should) you (do not wish to receive|no longer wish to receive|are not interested in getting) (loan updates in the future|emails from this advertiser|our promotional mailings|future CouponCaboodle messages)
 ----STANDARD TEMPLATE PLAIN TABLE BORDERS----
+/P0B0x
 100 day loans, pay day loans, get money,
 11231 nw 20st unit 140
 1ClickPrizesSweepstakes
@@ -32,8 +33,10 @@ Browse top health-care rates to save
 Business Phone Systems for ALL Budgets
 C-a-r-s-o-n C-i-ty Nevada
 CIGAR-SAVINGS
+Cancel email distributions from this client:
 Cant display our Ad beneath
 Cash.com Holiday Loan
+Cease mailings from us:
 Chart your Success in Medical Billing & Coding
 Cheating Wives Looking To Date!
 Check your Experian Credit Score for FREE
@@ -46,10 +49,12 @@ Compare quotes and save on dental insurance
 Complications with Mesh Surgery
 Consolidate debt today for a better tomorrow
 ConsumerInjuryAlert
+Cranston, Brody, Walton
 Customize your loans and Refinance your home.
 Cyber Crime Investigations
 DELL is giving away a FREE
 Dealers Are WAY overstocked
+Designer-Shoes-on-sale
 DirectBuy is the #1 home improvement and furnishing club.
 Discount Air Conditioners - energy efficient
 Discover the Benefits of Incorporating in Nevada
@@ -97,6 +102,7 @@ Have you dreamed about being a Pharmacy Assistant?
 Help your teen get on the straight and narrow
 Help your teen get on the straight and narrow
 HomeWarranty101,
+Hope you enjoy this Health and Education Newsletter promotion
 Hottest Online Shopping Craze
 Huge Savings On Brand Name Electronics!
 Hurry and get your FREE 
@@ -104,6 +110,7 @@ INCREDIBLE INCENTIVES
 If you do not want to receive anymore messages from
 If you wish to stop receiving these promos
 If you would like to cut off future messages:
+If you would like to stop seeing messages from:
 If you'd prefer not to receive Advertisements
 Injection Free Winkle Reduction
 Jobs Are Hiring Again - Work While You Train
@@ -173,6 +180,7 @@ Superior Smoking Alternatives
 T o un subscribe, cli ck b elow
 TOP 5 REASONS YOU NEED LIFE INSURANCE
 Take advantage of your own tax dollars. Apply for a government grant.
+Take-Me-0ff/
 The Money You Need in As little as 1 hour
 The YoshiBlade is made from diamond hard Zirconium Oxide
 There is no commitment necessary to Review The Details.
@@ -189,17 +197,25 @@ Thousands of Overstocked
 To (avoid receipt moving forward|be removed from this list|unsubscribe from this list),? please( use this page)?
 To (cancel|cease|delete|end|halt|stop) (all|further|future) (Ad Messages|Advertisements|Ads) (click|follow|go|tap)
 To No Longer Receive Our Ads To
+To avoid future solicitations and messages:
 To be taken out of Bentley Light Speed Media Delivery
+To cease further ads go below
+To halt further Ad Messages go below
 To stop receiving announcements from this advertiser
 To stop receiving emails for this offer only please visit here:
 To un subscribe, please visit:
 To unsubscribe from future advertisements from 
 Train in Medical Billing & Coding Programs Online or at a School Near You.
 Transunion, Equifax and Experian CreditReports and Scores.
+Try our fine adver-cational news mailing.
+University of Phoenix will help you gain the education
 Unlimited repairs on your home are available today:
+Using this technique, one man <b>lost over 100lbs
 Veterans Only - GI Bill Info
 Vinyl Siding is perfect for your home: Tough, Affordable, and Quick.
 WHILE SUPPLIES_LAST
+Welcome to our consumer adver-cational promotion
+Welcome to our edu-adver-cational distribution
 Welcome to our edu-adver-cational distribution
 Welcome to the Direct Buy Club
 What's Your RealAge
@@ -210,6 +226,7 @@ You have been pre-approved, so access your cash now:
 You have been selected to join AARP
 You have read an .dvertisement
 You opted-in to receive this message by providing your email address to .* third party email marketing partners
+You're about to enjoy lower interest rates, better job opportunities, higher credit limits on credit cards.
 You're reading an Advert-i-sement
 You've been selected to recieve Great Coupons
 Your Credit-Score may have been adjusted
@@ -231,6 +248,7 @@ _No_Longer_.*_Be_Contacted_.*_Here
 _To_Stop_Being_Contacted_
 about this amazing FREE prepaid card from Visa!
 ad_il:izer:com
+adver-cational
 deals with wireless security cameras
 f you do not wish to be contacted by 
 f you no longer wish to receive emails from this advertiser
@@ -239,6 +257,7 @@ make-these-messages-stop-coming
 members have invited you to join Singlesnet
 of FREE COFFEE
 printout oil change coupons
+reward programs/APR rates all compare side by side
 savecashdirect.com
 style="color:#FFF*; font-size:1px; width:600px;">
 to thank its loyal customers, is giving away 
