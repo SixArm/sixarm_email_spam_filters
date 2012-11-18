@@ -1,0 +1,7 @@
+cat from.txt | postfix-converter-helpers/sed-from-txt-to-postfix-header-checks-txt >> header_checks.txt
+cat subject.txt | postfix-converter-helpers/sed-subject-txt-to-postfix-header-checks-txt >> header_checks.txt
+sort -o header_checks.txt header_checks.txt
+
+cat body.txt | postfix-converter-helpers/sed-body-txt-to-postfix-body-checks-txt >> body_checks.txt
+cat host.txt | postfix-converter-helpers/sed-host-txt-to-postfix-body-checks-txt >> body_checks.txt
+sort -o body_checks.txt body_checks.txt

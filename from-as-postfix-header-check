@@ -1,2 +1,0 @@
-cat from.txt | sed 's#\(.*\)#/From: .*\1/ REJECT Spam From: \1#'
-

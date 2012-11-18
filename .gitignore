@@ -1,1 +1,6 @@
 ~
+
+# Ignore these build artifacts because these files are created by postfix-converter script,
+# and the files should then be moved into the appropriate location such as /etc/postfix/
+body_checks.txt
+header_checks.txt
