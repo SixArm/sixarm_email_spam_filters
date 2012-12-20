@@ -1,13 +1,19 @@
-SF Fire Credit Union <eNotice@sffirecu.org>
-AngelList Talent <talent@angel.co>
-Jungle Disk Backup Reporting <noreply@jungledisk.com>
-Trulia <updates@trulia.com>
+Amazon Kindle Support <cust.service03@amazon.com>
 Amazon Web Services <devpay@amazon.com>
-HowAboutWe <theteam@howaboutwe.com>
-OneKingsLane.com <events@communications.onekingslane.com>
-iStockphoto <newsletter@communication.istockphoto.com>
-Manning Deal of the Day <mkt@manning.com>
 Amazon Web Services <no-reply-aws@amazon.com>
-Public Storage <invoice@customercare.publicstorage.com>
-The Pragmatic Bookstore <support@pragprog.com>
+AngelList Talent <talent@angel.co>
+HowAboutWe <theteam@howaboutwe.com>
+Indiegogo <noreply@indiegogo.com>
+iStockphoto <newsletter@communication.istockphoto.com>
+iTunes Store <do_not_reply@apple.com>
+Jungle Disk Backup Reporting <noreply@jungledisk.com>
+Manning Deal of the Day <mkt@manning.com>
 Networks Solutions <networksolutions@mail1.networksolutions.com>
+OneKingsLane.com <events@communications.onekingslane.com>
+PayPal <paypal@e.paypal.com>
+Public Storage <invoice@customercare.publicstorage.com>
+Sauce Labs <hello@saucelabs.com>
+SF Fire Credit Union <eNotice@sffirecu.org>
+The Pragmatic Bookstore <support@pragprog.com>
+Trulia <updates@trulia.com>
+Wells Fargo Online <alerts@notify.wellsfargo.com>
