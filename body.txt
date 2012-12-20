@@ -31,8 +31,7 @@ Bid on unbelievable products at unbelievable prices at Quibids
 <br><center><a href="http:\/\/[\w+\.]+/[0123456789abcdef]+"><img src="http:\/\/[\w+\.]+/images/[0123456789abcdef]+.gif" border="0"><\/a><\/center>
 Browse top health-care rates to save
 Business Phone Systems for ALL Budgets
-Cancel email distributions from this client:
-Cancel\w+all distributions from  this client
+Cancel\w+email\w+distributions\w+from\w+this\w+client
 Cant display our Ad beneath
 C-a-r-s-o-n C-i-ty Nevada
 Cash.com Holiday Loan
