@@ -2,18 +2,26 @@ Amazon Kindle Support <cust.service03@amazon.com>
 Amazon Web Services <devpay@amazon.com>
 Amazon Web Services <no-reply-aws@amazon.com>
 AngelList Talent <talent@angel.co>
+AngelList <team@angel.co>
+Apple Developer <developer@insideapple.apple.com>
+BrandYourself.com <mailer@sendgrid.brandyourself.com>
 HowAboutWe <theteam@howaboutwe.com>
 Indiegogo <noreply@indiegogo.com>
 iStockphoto <newsletter@communication.istockphoto.com>
 iTunes Store <do_not_reply@apple.com>
 Jungle Disk Backup Reporting <noreply@jungledisk.com>
+LinkedIn Connections <connections@linkedin.com>
 Manning Deal of the Day <mkt@manning.com>
+My Starbucks Rewards <Starbucks@e.starbucks.com>
 Networks Solutions <networksolutions@mail1.networksolutions.com>
 OneKingsLane.com <events@communications.onekingslane.com>
 PayPal <paypal@e.paypal.com>
 Public Storage <invoice@customercare.publicstorage.com>
 Sauce Labs <hello@saucelabs.com>
+service@paypal.com <service@paypal.com>
 SF Fire Credit Union <eNotice@sffirecu.org>
 The Pragmatic Bookstore <support@pragprog.com>
 Trulia <updates@trulia.com>
+Udacity Newsletter <hal@knowlabs.com>
 Wells Fargo Online <alerts@notify.wellsfargo.com>
+Zipcar <underthehood@members.zipcarmail.com>
