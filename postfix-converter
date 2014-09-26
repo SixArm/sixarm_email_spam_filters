@@ -1,3 +1,3 @@
 sort -u blacklist.pcre.txt -o blacklist.pcre.txt
-cat blacklist.pcre.txt | grep    '^^\(From\|Reply-To\|Subject\|To\):' | sed 's#\(.*\)#/\1/i REJECT Spam: \1#' > header_checks.txt
-cat blacklist.pcre.txt | grep -v '^^\(From\|Reply-To\|Subject\|To\):' | sed 's#\(.*\)#/\1/i REJECT Spam: \1#' > body_checks.txt
+cat blacklist.pcre.txt | grep    '^^\(Errors-To\|From\|Received\|References\|Reply-To\|Return-Path\|Subject\|To\):' | sed 's#\(.*\)#/\1/i REJECT Spam: \1#' > header_checks.txt
+cat blacklist.pcre.txt | grep -v '^^\(Errors-To\|From\|Received\|References\|Reply-To\|Return-Path\|Subject\|To\):' | sed 's#\(.*\)#/\1/i REJECT Spam: \1#' > body_checks.txt
