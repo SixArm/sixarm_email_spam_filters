@@ -1,1 +1,0 @@
-sed 's# +##; s#\(.*\)#/Subject: .*\1/i REJECT Spam Subject: \1#'

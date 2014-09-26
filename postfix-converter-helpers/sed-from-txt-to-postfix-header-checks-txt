@@ -1,2 +1,0 @@
-sed 's# +$##; s#^\(.*\)$#/From: .*\1/i REJECT Spam From: \1#'
-

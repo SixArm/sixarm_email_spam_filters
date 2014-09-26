@@ -1,7 +1,4 @@
-sort -u body.txt -o body.txt
-sort -u from.txt -o from.txt
-sort -u host.txt -o host.txt
-sort -u subject.txt -o subject.txt
-sort -u whitelist_from.txt -o whitelist_from.txt
-git commit -am "Add more" 
+sort -u blacklist.pcre.txt -o blacklist.pcre.txt
+sort -u whitelist.pcre.txt -o whitelist.pcre.txt
+git commit -am "Add more"
 git push

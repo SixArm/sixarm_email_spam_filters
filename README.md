@@ -1,5 +1,11 @@
-SixArm.com » Email » Spam Filters
+# SixArm.com » Email » Spam Filters
 
-Spam filters and helpers. 
+Spam filters and related helpers:
+
+  * Whitelist of Perl Compatible Regular Expressions
+  * Blacklist of Perl Compatible Regular Expressions
+  * Converter script to create Postfix checks
+
+
 
 

@@ -1,0 +1,31 @@
+^Reply-To: support@backerkit.com$
+
+^From: Amazon Kindle Support <cust.service03@amazon.com>
+^From: Amazon Web Services <devpay@amazon.com>
+^From: Amazon Web Services <no-reply-aws@amazon.com>
+^From: AngelList Talent <talent@angel.co>
+^From: AngelList <team@angel.co>
+^From: Apple Developer <developer@insideapple.apple.com>
+^From: BrandYourself.com <mailer@sendgrid.brandyourself.com>
+^From: HowAboutWe <theteam@howaboutwe.com>
+^From: Indiegogo <noreply@indiegogo.com>
+^From: iStockphoto <newsletter@communication.istockphoto.com>
+^From: iTunes Store <do_not_reply@apple.com>
+^From: Jungle Disk Backup Reporting <noreply@jungledisk.com>
+^From: LinkedIn Connections <connections@linkedin.com>
+^From: Manning Deal of the Day <mkt@manning.com>
+^From: My Starbucks Rewards <Starbucks@e.starbucks.com>
+^From: Networks Solutions <networksolutions@mail1.networksolutions.com>
+^From: OneKingsLane.com <events@communications.onekingslane.com>
+^From: PayPal <paypal@e.paypal.com>
+^From: Public Storage <invoice@customercare.publicstorage.com>
+^From: Sauce Labs <hello@saucelabs.com>
+^From: service@paypal.com <service@paypal.com>
+^From: SF Fire Credit Union <eNotice@sffirecu.org>
+^From: The Pragmatic Bookstore <support@pragprog.com>
+^From: Trulia <updates@trulia.com>
+^From: Udacity Newsletter <hal@knowlabs.com>
+^From: Wells Fargo Online <alerts@notify.wellsfargo.com>
+^From: Zipcar <underthehood@members.zipcarmail.com>
+^From: Ello Notifications <notifications@ello.co>
+^From: LeVar Burton & The Reading Rainbow Team <kickstarter@readingrainbow.com>
