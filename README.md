@@ -1,4 +1,4 @@
-# SixArm.com » Email » Spam Filters
+# Email » Spam Filters
 
 Spam filters and related helpers:
 
